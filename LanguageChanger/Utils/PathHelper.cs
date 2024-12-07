@@ -4,7 +4,7 @@ namespace LanguageChanger.Utils
 {
     public static class PathHelper
     {
-        public static string GetPath(params string[] directories)
+        public static string GetPath(params string?[] directories)
         {
             StringBuilder sb = new StringBuilder();
 
@@ -14,7 +14,7 @@ namespace LanguageChanger.Utils
 
             sb.Append(baseDirectory);
 
-            foreach (string directory in directories)
+            foreach (string? directory in directories)
                 sb.Append($"/{directory}");
 
             return sb.ToString();

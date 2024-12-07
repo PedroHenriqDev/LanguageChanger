@@ -1,0 +1,8 @@
+{
+    "Message": "Hello, my name is Rick Grimes.",
+
+    "Conditions": {
+        "Contain": "Must contains",
+        "NotCointans":  "Must not cointans"
+    }
+}

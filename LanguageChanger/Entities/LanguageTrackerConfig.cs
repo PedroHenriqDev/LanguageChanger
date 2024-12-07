@@ -1,4 +1,4 @@
-﻿namespace LanguageChanger.Models
+﻿namespace LanguageChanger.Entities
 {
     public class LanguageTrackerConfig
     {
