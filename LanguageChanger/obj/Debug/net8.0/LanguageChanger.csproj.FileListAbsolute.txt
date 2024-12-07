@@ -1,0 +1,12 @@
+C:\Dev\LanguageChanger\LanguageChanger\bin\Debug\net8.0\LanguageChanger.deps.json
+C:\Dev\LanguageChanger\LanguageChanger\bin\Debug\net8.0\LanguageChanger.dll
+C:\Dev\LanguageChanger\LanguageChanger\bin\Debug\net8.0\LanguageChanger.pdb
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.csproj.AssemblyReference.cache
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.AssemblyInfoInputs.cache
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.AssemblyInfo.cs
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.csproj.CoreCompileInputs.cache
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.dll
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\refint\LanguageChanger.dll
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\LanguageChanger.pdb
+C:\Dev\LanguageChanger\LanguageChanger\obj\Debug\net8.0\ref\LanguageChanger.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageChanger", "LanguageChanger\LanguageChanger.csproj", "{484D6142-B6B6-405F-9F31-871A92F43233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B1CA28F7-1600-491D-8761-D58E15B05D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484D6142-B6B6-405F-9F31-871A92F43233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484D6142-B6B6-405F-9F31-871A92F43233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484D6142-B6B6-405F-9F31-871A92F43233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484D6142-B6B6-405F-9F31-871A92F43233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA28F7-1600-491D-8761-D58E15B05D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA28F7-1600-491D-8761-D58E15B05D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA28F7-1600-491D-8761-D58E15B05D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA28F7-1600-491D-8761-D58E15B05D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
