@@ -4,7 +4,33 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>LanguageChanger</PackageId>
+    <Title>LanguageChanger</Title>
+    <Version>1.0.2</Version>
+    <Authors>Pedro Henrique</Authors>
+    <Company>Pedro Henrique</Company>
+    <Product>LanguageChanger</Product>
+    <Description>
+		A package that makes it easy to search and manage messages in multiple languages ​​in your program, with support for language repositories in JSON format.</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/PedroHenriqDev/LanguageChanger</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/PedroHenriqDev/LanguageChanger</PackageProjectUrl>
+    <PackageReleaseNotes>Update the icon.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageIcon>Language_Changer.jpg.jpg</PackageIcon>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Users\devpe\Downloads\Language_Changer.jpg.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />

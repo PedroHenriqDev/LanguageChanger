@@ -1,5 +1,6 @@
 ﻿using Xunit;
 using LanguageChanger.Entities;
+using LanguageChanger.Tracker;
 
 namespace LanguageChanger.Tests
 {
