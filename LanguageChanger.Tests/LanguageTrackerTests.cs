@@ -11,7 +11,7 @@ namespace LanguageChanger.Tests
         [Fact]
         public void GetText_WhenAllParamsIsValid_ShouldReturnValue()
         {
-            string? message = _langTracker.GetText("Message", fileName: "Default");
+            string? message = _langTracker.GetText("Message", fileName: "Main");
 
             Assert.NotNull(message);
         }
@@ -19,7 +19,7 @@ namespace LanguageChanger.Tests
         [Fact]
         public void GetTexts_WhenAllParamsIsValid_ShouldReturnValue()
         {
-            Dictionary<string, string?> messages = _langTracker.GetTexts("Conditions", fileName: "Default");
+            Dictionary<string, string?> messages = _langTracker.GetTexts("Conditions", fileName: "Main");
 
             Assert.NotNull(messages);
             Assert.Contains("Must contains", messages.Values);
